@@ -656,7 +656,7 @@ Para executar este código, utilize a opção do GitHub que permite baixar o rep
 
 ![Imagem mostrando onde está o botão](https://img001.prntscr.com/file/img001/Hxj8w1DnRRup_A-nl7s_4w.png)
 
-Quando o arquivo estiver baixado, extraia seu conteúdo em uma nova pasta ou uma pasta vazia. Confira que todos os itens do repositório estão na pasta resultante.
+Quando o arquivo estiver baixado, extraia seu conteúdo em uma nova pasta ou uma pasta vazia. Confira que todos os itens do repositório estão na pasta resultante, mas apague a pasta readme (necessária apenas para este README).
 
 > [!TIP]
 > Extrair o arquivo em uma pasta vazia ou nova garante que nenhum arquivo exterior irá impedir a execução do código ou atrapalhar seu funcionamento
